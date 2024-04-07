@@ -1,0 +1,71 @@
+.blog-cards {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+  
+.Card {
+    padding: .5rem;
+    border-radius: 10px;
+    transition: all 0.3s;
+    cursor: pointer;
+    background: #fff;
+    box-shadow: 0 2px 4px 0 rgba(136, 144, 195, 0.2),
+    0 5px 15px 0 rgba(37, 44, 97, 0.15);
+    color: black;
+}
+
+.Card:hover {
+    background: #309df0;
+    color: #fff;
+    transform: scale(1.1);
+}
+  
+.Card  > .header {
+    margin-bottom: .25rem;
+}
+  
+.Card  > .body {
+    font-size: .8rem;
+}
+  
+.hide {
+    display: none;
+}
+
+.header{
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+
+
+
+
+.theme-btn{
+    padding: 10px 40px;
+    border-radius: 20px;
+    border: 0;
+    background-color: rgb(255, 56, 86);
+    letter-spacing: 1.5px;
+    font-size: 15px;
+    transition: all 0.3s ease;
+    box-shadow: rgb(201, 46, 70) 0px 10px 0px 0px;
+    color: hsl(0, 0%, 100%);
+    cursor: pointer;
+  }
+  
+  .theme-btn:hover {
+    box-shadow: rgb(201, 46, 70) 0px 7px 0px 0px;
+  }
+  
+  .theme-btn:active {
+    background-color: rgb(255, 56, 86);
+    /*50, 168, 80*/
+    box-shadow: rgb(201, 46, 70) 0px 0px 0px 0px;
+    transform: translateY(5px);
+    transition: 200ms;
+  }
+  

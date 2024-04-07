@@ -1,0 +1,104 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "How to Learn JavaScript",
+        "category": "Programming",
+        "content": "Lorem ipsum dolor sit amet  accusantium praesentium natus voluptatibus.",
+        "author": "John Doe",
+        "views": 1200,
+        "img":"https://plus.unsplash.com/premium_photo-1664297844174-d7dfb8d0e7f1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+
+      {
+        "id": 2,
+        "title": "Tips for Healthy Living",
+        "category": "Health",
+        "content": "Lorem ipsum dolor sit amet  accusantium praesentium natus voluptatibus.",
+        "author": "Jane Doe",
+        "views": 800,
+        "img":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1453&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+
+      {
+        "id": 3,
+        "title": "Tales from the Open Road",
+        "category": "Journey",
+        "content": "Lorem ipsum dolor sit amet  accusantium praesentium natus voluptatibus.",
+        "author": "Brandi Warren",
+        "views": 1800,
+        "img":"https://plus.unsplash.com/premium_photo-1673971700988-346588461fa7?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+
+      {
+        "id": 4,
+        "title": "Exploring Life's Curiosities",
+        "category": "Life",
+        "content": "Lorem ipsum dolor sit amet  accusantium praesentium natus voluptatibus.",
+        "author": "Jane Doe",
+        "views": 600,
+        "img":"https://images.unsplash.com/photo-1490730141103-6cac27aaab94?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+
+      {
+        "id": 5,
+        "title": " Reflections on the Journey",
+        "category": "Journey",
+        "content": "Lorem ipsum dolor sit amet  accusantium praesentium natus voluptatibus.",
+        "author": "Ricky Meyer",
+        "views": 300,
+        "img":"https://images.unsplash.com/reserve/91JuTaUSKaMh2yjB1C4A_IMG_9284.jpg?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+
+      {
+        "id": 6,
+        "title": "Brewing Ideas & Inspiration",
+        "category": "Inspiration",
+        "content": "Lorem ipsum dolor sit amet  accusantium praesentium natus voluptatibus.",
+        "author": "Stanley Hodges",
+        "views": 900,
+        "img":"https://images.unsplash.com/photo-1607634308634-e07a262d3d7b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+
+      {
+        "id": 7,
+        "title": "Navigating Life's Twists and Turns",
+        "category": "Life",
+        "content": "Lorem ipsum dolor sit amet  accusantium praesentium natus voluptatibus.",
+        "author": "Sharon Love",
+        "views": 200,
+        "img":"https://images.unsplash.com/photo-1511988617509-a57c8a288659?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+
+      {
+        "id": 8,
+        "title": "Adventures in Global Exploration",
+        "category": "Journey",
+        "content": "Lorem ipsum dolor sit amet  accusantium praesentium natus voluptatibus.",
+        "author": "Corey Keller",
+        "views": 100,
+        "img":"https://images.unsplash.com/photo-1521295121783-8a321d551ad2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+
+      {
+        "id": 9,
+        "title": "Journeys Through Words and Pages",
+        "category": "Journey",
+        "content": "Lorem ipsum dolor sit amet  accusantium praesentium natus voluptatibus.",
+        "author": "Margarita Frazier",
+        "views": 400,
+        "img":"https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?q=80&w=1183&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      
+      {
+        "id": 10,
+        "title": "Finding Wisdom in the Wilderness",
+        "category": "Inspiration",
+        "content": "Lorem ipsum dolor sit amet  accusantium praesentium natus voluptatibus.",
+        "author": "Natasha Norris",
+        "views": 500,
+        "img":"https://images.unsplash.com/photo-1526996233918-d7059afc59bf?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+      
+    ]
+  }

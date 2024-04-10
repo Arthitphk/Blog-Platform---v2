@@ -27,7 +27,7 @@ fetch(blogs)
 
 const statblogs =  document.getElementById("Stat-blogs")
 
-const statistics = "./statblogs.json"
+const statistics = "../statblogs.json"
 
 fetch(statistics)
     .then((respone) => {

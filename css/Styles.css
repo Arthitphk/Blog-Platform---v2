@@ -218,6 +218,7 @@ blog stat keyframes
     line-height: 1.6;
     border: 1px solid #999999;
     transition: all 0.48s cubic-bezier(0.23, 1, 0.32, 1);
+    background-color: white;
 }
   
 .content {

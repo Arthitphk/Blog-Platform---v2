@@ -24,6 +24,5 @@ filterButtons.forEach(button => button.addEventListener("click", filterofCards))
 
 function Darktoggle() {
     var element = document.body;
-    element.dataset.bsTheme = 
-        element.dataset.bsTheme == "light" ? "dark" : "light"
+    element.dataset.bsTheme = element.dataset.bsTheme == "light" ? "dark" : "light";
 }
